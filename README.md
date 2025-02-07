@@ -28,7 +28,8 @@ Top Categories by Revenue:
 
 T-shirts lead with $39.2M in sales, followed by Shirts at $21.3M.
 Categories like Watches, Shoes, and Perfumes show potential for growth with focused strategies.
-Shipping Service Analysis:
+
+**Shipping Service Analysis:**
 
 Expedited shipping is the preferred choice across all high-performing categories, highlighting customer demand for faster delivery.
 Revenue Distribution:
