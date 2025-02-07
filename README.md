@@ -24,7 +24,7 @@ Project Structure
     |-- recommendations.md     # Detailed recommendations
     |-- conclusions.md         # Final conclusions
     |-- README.md              # Project documentation (this file)
-#Insights#
+### Insights
 **Top Categories by Revenue:**
 
 T-shirts lead with $39.2M in sales, followed by Shirts at $21.3M.
@@ -37,10 +37,10 @@ Revenue Distribution:
 
 High concentration of revenue from T-shirts and Shirts indicates opportunities to diversify sales.
 
-##Recommendations##
+### Recommendations
 Increase focus on high-performing categories like T-shirts and Shirts.
 Reassess marketing and pricing strategies for underperforming categories such as Perfumes and Watches.
 Promote expedited shipping options to cater to customer preferences.
 
-##Conclusion##
+### Conclusion
 The analysis provides a comprehensive overview of product sales performance and customer preferences. By implementing the recommendations, businesses can optimize their operations and achieve significant growth.
