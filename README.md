@@ -24,6 +24,7 @@ Project Structure
     |-- recommendations.md     # Detailed recommendations
     |-- conclusions.md         # Final conclusions
     |-- README.md              # Project documentation (this file)
+    
 ### Insights
 **Top Categories by Revenue:**
 
