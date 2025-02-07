@@ -1,4 +1,4 @@
-#Amazon Product Sales Analysis#
+#Amazon Product Sales Analysis
 *Overview*
 This project provides a detailed analysis of Amazon product sales, focusing on various product categories, shipping methods, and overall performance. The insights derived from the study aim to assist stakeholders in making informed business decisions to optimize sales and improve customer satisfaction.
 
