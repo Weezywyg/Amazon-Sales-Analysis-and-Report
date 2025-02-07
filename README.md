@@ -2,7 +2,7 @@
 *Overview*
 This project provides a detailed analysis of Amazon product sales, focusing on various product categories, shipping methods, and overall performance. The insights derived from the study aim to assist stakeholders in making informed business decisions to optimize sales and improve customer satisfaction.
 
-###Key Features###
+### Key Features
 **Category Analysis:** Insights into sales performance by category, including T-shirts, Shirts, Blazers, and more.
 Shipping Service Insights: Breakdown of sales by shipping service levels (Expedited and Standard).
 Revenue Analysis: Detailed analysis of revenue generated per category.
